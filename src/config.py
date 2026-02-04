@@ -1,0 +1,9 @@
+HELP_MESSAGE = """Usage: maze-app [-hV] [COMMAND]
+Maze generator and solver CLI application.
+  -h, --help      Show this help message and exit.
+  -V, --version   Print version information and exit.
+Commands:
+  generate  Generate a maze with specified algorithm and dimensions.
+  solve     Solve a maze with specified algorithm and points."""
+
+VERSION = "maze-app 1.0.0"
